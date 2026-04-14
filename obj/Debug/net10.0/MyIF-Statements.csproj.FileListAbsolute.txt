@@ -1,0 +1,14 @@
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.AssemblyInfoInputs.cache
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.AssemblyInfo.cs
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.csproj.CoreCompileInputs.cache
+C:\DevIsFun\MyIF-Statements\bin\Debug\net10.0\MyIF-Statements.exe
+C:\DevIsFun\MyIF-Statements\bin\Debug\net10.0\MyIF-Statements.deps.json
+C:\DevIsFun\MyIF-Statements\bin\Debug\net10.0\MyIF-Statements.runtimeconfig.json
+C:\DevIsFun\MyIF-Statements\bin\Debug\net10.0\MyIF-Statements.dll
+C:\DevIsFun\MyIF-Statements\bin\Debug\net10.0\MyIF-Statements.pdb
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.dll
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\refint\MyIF-Statements.dll
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.pdb
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\MyIF-Statements.genruntimeconfig.cache
+C:\DevIsFun\MyIF-Statements\obj\Debug\net10.0\ref\MyIF-Statements.dll
