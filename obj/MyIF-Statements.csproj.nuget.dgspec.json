@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevIsFun\\MyIF-Statements\\MyIF-Statements.csproj": {}
+    "C:\\DevIsFun\\MyIF-statements\\MyIF-statements.csproj": {}
   },
   "projects": {
-    "C:\\DevIsFun\\MyIF-Statements\\MyIF-Statements.csproj": {
+    "C:\\DevIsFun\\MyIF-statements\\MyIF-statements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevIsFun\\MyIF-Statements\\MyIF-Statements.csproj",
-        "projectName": "MyIF-Statements",
-        "projectPath": "C:\\DevIsFun\\MyIF-Statements\\MyIF-Statements.csproj",
+        "projectUniqueName": "C:\\DevIsFun\\MyIF-statements\\MyIF-statements.csproj",
+        "projectName": "MyIF-statements",
+        "projectPath": "C:\\DevIsFun\\MyIF-statements\\MyIF-statements.csproj",
         "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-        "outputPath": "C:\\DevIsFun\\MyIF-Statements\\obj\\",
+        "outputPath": "C:\\DevIsFun\\MyIF-statements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
