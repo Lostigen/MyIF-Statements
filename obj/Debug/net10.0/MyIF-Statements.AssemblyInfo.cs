@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyIF-statements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c05096bff2b3814eb19952cae988365241f2f583")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6566c55ef4d50792dc927d942fdaf4790e878a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyIF-statements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyIF-statements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
